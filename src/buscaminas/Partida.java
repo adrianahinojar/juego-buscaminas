@@ -7,13 +7,6 @@ package buscaminas;
 import java.io.Serializable;
 import java.util.Scanner;
 
-/**
- *
- * @author Adriana Hinojar 
- * @author Ainara Vanesa Tusan 
- * @author Maria Garcia
- * 
- */
 
 public class Partida implements Serializable {
     private boolean vidaGastada;
