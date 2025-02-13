@@ -30,13 +30,6 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
 
-/**
- *
- * @author Adriana Hinojar 
- * @author Ainara Vanesa Tusan 
- * @author Maria Garcia
- * 
- */
 public class Interfaz extends javax.swing.JFrame {
     private Partida partida;
     private Buscaminas buscaminas;
