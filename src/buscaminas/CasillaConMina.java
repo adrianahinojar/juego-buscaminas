@@ -4,13 +4,6 @@
  */
 package buscaminas;
 
-/**
- *
- * @author Adriana Hinojar 
- * @author Ainara Vanesa Tusan 
- * @author Maria Garcia
- * 
- */
 
 public class CasillaConMina extends Casilla{
     
