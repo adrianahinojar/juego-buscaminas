@@ -3,13 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package buscaminas;
-/**
- *
- * @author Adriana Hinojar 
- * @author Ainara Vanesa Tusan 
- * @author Maria Garcia
- * 
- */
+
 
 public class CasillaConVida extends Casilla {
     public CasillaConVida(int x, int y){
