@@ -3,13 +3,6 @@ package buscaminas;
 import java.io.Serializable;
 import java.util.ArrayList;
 
-/**
- *
- * @author Adriana Hinojar 
- * @author Ainara Vanesa Tusan 
- * @author Maria Garcia
- * 
- */
 
 public class Jugador implements Serializable{
     private String nombre;
