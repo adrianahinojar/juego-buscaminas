@@ -7,13 +7,6 @@ package buscaminas;
 import java.io.Serializable;
 import java.util.Random;
 
-/**
- *
- * @author Adriana Hinojar 
- * @author Ainara Vanesa Tusan 
- * @author Maria Garcia
- * 
- */
 
 public class Tablero implements Serializable{
     private int dimX;
