@@ -1,0 +1,5 @@
+1. Jugador Adriana	Puntos: 6	Victorias: 1
+2. Jugador Ainara	Puntos: 3	Victorias: 1
+3. Jugador Alvaro	Puntos: 6	Victorias: 1
+4. Jugador Maria	Puntos: 10	Victorias: 1
+5. Jugador Martina	Puntos: 0	Victorias: 0
