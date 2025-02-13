@@ -6,13 +6,6 @@ package buscaminas;
 
 import java.io.Serializable;
 
-/**
- *
- * @author Adriana Hinojar 
- * @author Ainara Vanesa Tusan 
- * @author Maria Garcia
- * 
- */
 
 public enum Nivel implements Serializable{
     PRINCIPIANTE, 
