@@ -6,14 +6,6 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
 
-/**
- *
- * @author Adriana Hinojar 
- * @author Ainara Vanesa Tusan 
- * @author Maria Garcia
- * 
- */
-
 public class Buscaminas{
     private static final int NOEXISTE = -1;
     private static final String BINARIO = "Buscaminas.dat";
